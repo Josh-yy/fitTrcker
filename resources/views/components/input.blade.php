@@ -1,0 +1,1 @@
+<input {{ $attributes }} type="text" class="border rounded w-full px-2">
